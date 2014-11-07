@@ -1,0 +1,4 @@
+I will what mistakes i made previously, and there is a chance to learn from them, not to make same mistakes again. This will improve my programmability. And there may be situation where the present one is wrong and the previous one may be wright. In that case if the entire history is available , we can easily reflect the previous code.
+Choosing manually when to commit gives better version controlling than automatically committing every change.
+Because those files may be related.
+To view history, first we have to use git log to see the whole commits and then diff between two commits to see the changes between two commits.

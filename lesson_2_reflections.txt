@@ -1,0 +1,1 @@
+When I initialize a repository, it creates a .git folder in that repository which is used to identify whether it is a git repository or not.
