@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Ans: If two or more people working on the same project in different systems it is recommended to create remote repository and 
+keeping the work there.
