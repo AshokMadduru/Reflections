@@ -1,1 +1,2 @@
 When I initialize a repository, it creates a .git folder in that repository which is used to identify whether it is a git repository or not.if we know the goal and doesn't know whether the path chosen by you is right or wrong we can use the branching in git.
+'\n' How do the diagrams help you visualize the branch structure?\n The branch structure can be better understandable if we saw that in the diagrams.
