@@ -1,0 +1,1 @@
+ What are the pros and cons of Git's automatic merging vs always doin g merges manually? Ans: Git's automatic merging will be simple and less overhead but it is not recommended whenever the conflicts are there
