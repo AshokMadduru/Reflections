@@ -1,1 +1,8 @@
+<<<<<<< HEAD
  What are the pros and cons of Git's automatic merging vs always doin g merges manually? Ans: Git's automatic merging will be simple and less overhead but it is not recommended whenever the conflicts are there
+||||||| merged common ancestors
+=======
+When would you want to use a remote repository rather than keeping all your work local?
+Ans: If two or more people working on the same project in different systems it is recommended to create remote repository and 
+keeping the work there.
+>>>>>>> be7b36eb375d5eb5e6acc3bbcb5e67f22c5c5688
