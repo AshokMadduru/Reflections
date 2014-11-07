@@ -6,3 +6,4 @@ When would you want to use a remote repository rather than keeping all your work
 Ans: If two or more people working on the same project in different systems it is recommended to create remote repository and 
 keeping the work there.
 >>>>>>> be7b36eb375d5eb5e6acc3bbcb5e67f22c5c5688
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository? Ans: For getting the changes whenever we required rather than unnecessarily.
